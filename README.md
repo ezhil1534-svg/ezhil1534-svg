@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ezhil1534-svg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
